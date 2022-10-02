@@ -6,3 +6,4 @@ module.exports = {User, Thought};
 
 // Language: javascript
 // Path: models/schheema.js
+
