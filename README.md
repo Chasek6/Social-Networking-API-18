@@ -18,6 +18,7 @@ Reactions to thoughts can be created and users' friends can be added via API POS
 
 ### Video Walkthrough
 
+![18-nosql-homework-demo-03](https://user-images.githubusercontent.com/108581086/193476036-c40df88a-1e8c-4cd1-958e-45106d2de4c8.gif)
 
 
 ## Contributing
